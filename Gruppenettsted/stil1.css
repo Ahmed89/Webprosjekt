@@ -1,0 +1,128 @@
+body {
+background: #404347;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: white;
+margin-top:5%;
+}
+
+h1 {
+color: #FAFFB0;
+margin-left:5%;
+font-size: 26px;
+font-weight: 100;
+}
+
+h2 {
+color: #999;
+margin-left:5%;
+}
+
+h3 {
+color: #FF9933;
+border-bottom: 1px dotted grey;
+}
+
+#dato {
+text-align: right;
+}
+
+h4 {
+color:#99ff33;
+font-weight: 100;
+}
+
+#validator {
+text-align:center;
+}
+
+a {
+color:#66bbcc;
+text-decoration: none; 
+}
+
+a:hover { 
+text-decoration: underline; 
+}
+
+#left {
+margin-left:5%;
+float: left;
+width: 17p%;
+padding: 0 20px 20px 0;
+border-right: 1px dotted #aaa;
+}
+
+#left ul {
+color:grey;
+}
+
+#right {
+float: left;
+width: 50%;
+padding: 0 20px 20px 20px;
+}
+
+#small {
+text-align: center;
+font-size: 80%;
+}
+
+#center {
+text-align: center;
+}
+
+#mPlan img {
+width:55%;
+
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+}
+
+#mKart img {
+width:100%;
+
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+}
+
+#mGant img {
+width:100%;
+
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+}
+
+#siteMap img {
+height:100%;
+
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+}
+
+#kontrakt li {
+margin-top: .5em;
+margin-bottom: .5em;
+}
+
+#utsnitt img {
+	width:60%;
+	
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+}
+
+#tilbake {
+	text-align:center;
+}
+
+#produkt {
+	font-size:large;
+	text-align:center;
+	padding:5% 0 5% 0;
+}
