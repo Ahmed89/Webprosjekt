@@ -1,0 +1,187 @@
+/*
+	<-> Created by: Tobias Tambs, 2010 <->
+*/
+
+body {
+	background:#100000;
+	margin-top:3%;
+	margin-left:4%;
+}
+
+#start {
+	margin-left:19%;
+}
+
+#ie {
+	visibility:visible;
+	color:#AAAAAA;
+	font-size:14px;
+}
+
+h1 {
+	color:#FF7700;
+	margin-left:2%;
+}
+
+h2 {
+	padding-left:4%;
+	color:#FF9900;
+}
+
+h3 {
+	text-align:center;
+	color:#FFBB00;
+}
+
+h4 {
+    color:#FFDD00;
+}
+
+#intro {
+	padding-top:3%;
+}
+
+#meny {
+	padding-top:10%;
+}
+
+h5 {
+    padding-left:23%;
+}
+
+p {
+	/*padding-left:20%;
+	width:60%;*/
+	color:#DDDDDD;
+}
+
+ul {
+    color:#DDDDDD;
+	text-align:left;
+}
+
+#right ul {
+	padding-left:25%;
+	color:#DDDDDD;
+}
+
+a {
+	color:#66bbcc;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#66bbcc;
+	text-decoration:underline;
+}
+
+#tilbake {
+    clear:both;
+}
+
+#topLeft {
+	float:left;
+	width:100%;
+}
+
+/*#topRight img {
+	float:left;
+	width:62%;
+}*/
+
+#left {
+	clear:both;
+	width:200px;
+    float:left;
+    padding-right:5%;
+	margin-bottom:1%;
+	border-top:1px dotted gray;
+}
+
+#right {
+	width:60%;
+    float:left;
+	
+	padding: 0 1.4% 1% 1.4%;
+	
+	border-top:1px dotted gray;
+	border-left:1px dotted gray;
+	border-right:1px dotted gray;
+	
+	text-align:center;
+}
+
+#col1 {
+	clear:both;
+	width:20%; 
+	padding: 0 1% 0 19%;
+	float: left;
+}
+
+#col2 {
+	width: 20%; 
+	padding: 0 10px 0 0;
+	float: left;
+}
+
+#col3 {
+	width: 20%;
+	float: left;
+}
+
+#col1 img {
+	width:100%;
+	
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius:10px;
+}
+
+#col2 img {
+	width:100%;
+	
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius:10px;
+}
+
+#col3 img {
+	width:100%;
+	
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius:10px;
+}
+
+#col11 {
+	width: 35%; 
+	padding: 0 10px 0 0;
+	float: left;
+	padding-left:13%;
+}
+
+#col21 {
+	width: 35%; 
+	padding: 0 10px 0 0;
+	float: left;
+}
+
+#disk {
+	color:grey;
+}
+
+#diagram img {
+	width:50%;
+	border:none;
+	
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius:10px;
+}
+
+#footer {
+	padding:3% 20% 2% 20%;
+	font-size:11px;
+	color:gray;
+	border-top:1px dotted gray;
+}
